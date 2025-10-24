@@ -1,1 +1,25 @@
-buat player dengan pi 5
+Hudiy App - 10$ https://hudiy.eu/
+
+Raspberry Pi 5 - rm232.00 https://my.cytron.io/p-raspberry-pi-5-with-2gb-ram
+
+Raspberry PI 5 M.2 HAT - rm55.00 https://my.cytron.io/p-raspberry-pi-md2-hat-plus-for-raspberry-pi-5
+
+Raspberry Pi 5 Metal Heatsink Case - 
+
+NVMe SSD 120GB - rm25.00 https://shopee.com.my/-Cheapest-RANDOM-BRAND-120GB-240GB-M.2-SATA-M.2-nVME-NOT-100-HEALTHY-TESTED-DETECT-i.36194206.8540827770?sp_atk=2bd31d0b-b251-44a2-a6a1-bc4b4b4e52e0&xptdk=2bd31d0b-b251-44a2-a6a1-bc4b4b4e52e0
+
+12V -> 5V converter - rm12.00 (I bought it in local store)
+
+CM6206 sound card - rm69.01 https://shopee.com.my/%E2%9C%BF-keepdreaming-%E2%9C%BF-Professional-USB-Sound-Card-6-Channel-5.1-External-Optical-Audio-Sound-Card-Converter-CM6206-Chipset-for-Laptop-Desktop-PC-i.87077915.25981239664?sp_atk=36c68321-b0ed-4ac6-90fc-fad130bdb435&xptdk=36c68321-b0ed-4ac6-90fc-fad130bdb435
+
+Wisecoco 10.3'' screen 1920x720 - rm646.05 https://www.aliexpress.com/item/4000018921919.html
+
+ADUM3160 - rm23 https://www.aliexpress.com/item/1005001369085297.html?spm=a2g0o.productlist.main.2.1cf5caf4MBm1Tp&algo_pvid=ad3e4e19-9a53-4ba5-ada3-39501f6e944a&algo_exp_id=ad3e4e19-9a53-4ba5-ada3-39501f6e944a-1&pdp_ext_f=%7B%22order%22%3A%22248%22%2C%22eval%22%3A%221%22%2C%22fromPage%22%3A%22search%22%7D&pdp_npi=6%40dis%21MYR%2123.00%2123.00%21%21%215.34%215.34%21%402101062a17612692943616792ece40%2112000033331610036%21sea%21MY%21124392047%21X%211%210%21n_tag%3A-29919%3Bd%3A95391b5d%3Bm03_new_user%3A-29895&curPageLogUid=dvO7gInjvl0L&utparam-url=scene%3Asearch%7Cquery_from%3A%7Cx_object_id%3A1005001369085297%7C_p_origin_prod%3A
+
+Microphone - 5$
+
+RTL FM stick - rm72.00 https://www.aliexpress.com/item/1005005458772394.html?spm=a2g0o.productlist.main.1.5bd5126fpMfti2&algo_pvid=2a7bd7a0-bf90-429b-80f6-cb76b3b86a35&algo_exp_id=2a7bd7a0-bf90-429b-80f6-cb76b3b86a35-0&pdp_ext_f=%7B%22order%22%3A%22147%22%2C%22eval%22%3A%221%22%2C%22fromPage%22%3A%22search%22%7D&pdp_npi=6%40dis%21MYR%21220.38%2172.73%21%21%21364.68%21120.34%21%40212e532617612693353931119e2f02%2112000033163346587%21sea%21MY%21124392047%21X%211%210%21n_tag%3A-29919%3Bd%3A95391b5d%3Bm03_new_user%3A-29895&curPageLogUid=CUZifYkFEcGS&utparam-url=scene%3Asearch%7Cquery_from%3A%7Cx_object_id%3A1005005458772394%7C_p_origin_prod%3A
+
+Relay - rm 5
+
+Some other stuff like cables and USB hub is around 25$ 
